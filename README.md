@@ -4,9 +4,9 @@
 **Name:** Shahriar Hossain Shaikat  
 **ID:** 2215151034  
 **University:** UITS (University of Information Technology and Sciences)  
-**Department:** Computer Science and Engineering (CSE)
-**Batch:** 51
-**Section:** 7A2
+**Department:** Computer Science and Engineering (CSE)  
+**Batch:** 51  
+**Section:** 7A2  
 
 ## Course Details
 **Course Code:** CSE 413  
