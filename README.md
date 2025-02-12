@@ -33,7 +33,7 @@
 - Best practices for structuring a professional GitHub repository.
 
 
-## How to Run This in Google Colab
+## Run This in Google Colab
 
 1. Download the .ipynb File or Clone the repository:  
     ```bash
