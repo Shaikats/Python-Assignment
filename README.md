@@ -32,6 +32,7 @@
 - How to present data using heatmaps and bar plots.
 - Best practices for structuring a professional GitHub repository.
 
+<<<<<<< HEAD
 ## How to Run This in Google Colab / Jupyter Notebook
 
 ### Google Colab
@@ -41,3 +42,15 @@
    ```python
    !git clone https://github.com/shaikats/Simulation-and-Modeling-Lab.git
    %cd your-repo
+=======
+
+## Run This in Google Colab
+
+1. Download the .ipynb File or Clone the repository:  
+    ```bash
+   git clone https://github.com/shaikats/Simulation-and-Modeling-Lab.git
+   ```
+2. Open [Google Colab](https://colab.research.google.com/).
+3. Click on **"File" > "Upload Notebook"** and select the `.ipynb` file, or create a new notebook and Paste the Code.
+
+>>>>>>> 27429b9f6a97d3d271f9b74eb7b2f9ec19bec79e
