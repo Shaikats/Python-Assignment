@@ -14,7 +14,6 @@
 **Course Teacher:** Audity Ghosh  
 
 ---
-
 ## 📂 **Assignments**
 
 <details>
@@ -32,7 +31,7 @@
 - Heatmap visualization
 - Bar plot representation of matrix computations
 
-📂 **[View Assignment 1 Notebook](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-01.ipynb)**
+📂 **[View Assignment 1](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-01.ipynb)**
 
 </details>
 
@@ -50,12 +49,19 @@
 - Random integer matrix generation
 - Effects of using fixed seeds in random number generation
 
-📂 **[View Assignment 2 Notebook](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-02.ipynb)**
+📂 **[View Assignment 2](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-02.ipynb)**
 
 </details>
 
 
+## 📂 **Assignment Links**  
+
+[![Assignment 1](https://img.shields.io/badge/🔗%20Assignment%201%20-Click%20Here-blue?style=for-the-badge)](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-01.ipynb)  
+[![Assignment 2](https://img.shields.io/badge/🔗%20Assignment%202%20-Click%20Here-blue?style=for-the-badge)](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-02.ipynb)  
+
+
 ---
+
 
 ## 🎯 **What I Learned**
 - How to generate and manipulate random numerical data in Python.
