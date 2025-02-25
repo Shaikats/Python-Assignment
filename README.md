@@ -33,10 +33,11 @@
 
 📂 **[View Assignment 1](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-01.ipynb)**
 
+
 </details>
 
 <details>
-  <summary><strong>🎲 Assignment 2: Random Matrix Generation</strong></summary>
+  <summary><strong>📊 Assignment 2: Random Matrix Generation</strong></summary>
 
 ### 📝 Tasks
 1. Use NumPy to create a 3×3 matrix of random integers between 1 and 50.  
@@ -53,11 +54,29 @@
 
 </details>
 
+<details>
+<summary><strong>📊 Assignment 3: Hypothesis Testing and Data Analysis</strong></summary>
+
+### 📝 Tasks
+1. **Statistical Analysis**: Calculate the t-statistic and p-value for the given dataset.
+2. **Interpretation & Visualization**: Analyze the results at a 0.05 significance level and visualize the findings.
+
+### 📌 Concepts Covered
+- Hypothesis testing  
+- t-Statistic and p-Value calculation  
+- Statistical significance interpretation  
+- Data visualization for hypothesis testing  
+
+📂 **[View Assignment 3](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-03.ipynb)**  
+
+</details>
 
 ## 📂 **Assignment Links**  
 
 [![Assignment 1](https://img.shields.io/badge/🔗%20Assignment%201%20-Click%20Here-blue?style=for-the-badge)](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-01.ipynb)  
 [![Assignment 2](https://img.shields.io/badge/🔗%20Assignment%202%20-Click%20Here-blue?style=for-the-badge)](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-02.ipynb)  
+[![Assignment 3](https://img.shields.io/badge/🔬%20Assignment%203%20-Click%20Here-blue?style=for-the-badge)](https://github.com/Shaikats/Python-Assignment/blob/main/assignment-03.ipynb)
+
 
 
 ---
