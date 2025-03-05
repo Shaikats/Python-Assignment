@@ -108,4 +108,9 @@
 
 ## ⚡ **Run This in Google Colab**
 
-1. Download the `.ipynb
+1. Download the `.ipynb` File or Clone the repository:
+    ```bash
+    git clone https://github.com/shaikats/Simulation-and-Modeling-Lab.git
+    ```
+2. Open [Google Colab](https://colab.research.google.com/).
+3. Click on **"File" > "Upload Notebook"** and select the `.ipynb` file, or create a new notebook and Paste the Code.
